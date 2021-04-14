@@ -1,0 +1,22 @@
+###########################
+# Plugin made by:         #
+# Jona / Pottenmaker      #
+# Dicord: Jona#7797       #
+# Open for new            #
+# challanges!             #
+############################
+
+#The prefix of the messages.
+Prefix: '&4&lPrefix &8&l> &7'
+
+#The permission for the /alert or /broadcast command.
+Broadcast_Permission: 'cmc.alert'
+
+#No permission message.
+No_Permission: '&cYou do not have permission for this command.'
+
+#Broadcast Message:
+BroadcastMessage:
+  - '&7'
+  - '%prefix% %message%'
+  - '&7'

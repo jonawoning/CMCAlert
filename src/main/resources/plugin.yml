@@ -1,0 +1,9 @@
+name: CMCAlert
+version: ${project.version}
+main: nl.snowpix.cmcalert.CMCAlert
+authors: [ Pottenmaker ]
+description: The alert command made for a simple plugin. 1.12.2
+commands:
+  Broadcast:
+    description: Use the alert or broadcast command!
+    aliases: [bc, alert, shout]
